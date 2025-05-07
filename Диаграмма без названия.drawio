@@ -9,7 +9,7 @@
             <mxRectangle x="140" y="100" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C8l6dgH5X2dVMIeymVqH-2" value="book_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="C8l6dgH5X2dVMIeymVqH-1">
+        <mxCell id="C8l6dgH5X2dVMIeymVqH-2" value="&lt;b&gt;&lt;u&gt;book_id&lt;/u&gt;&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="C8l6dgH5X2dVMIeymVqH-1">
           <mxGeometry y="40" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C8l6dgH5X2dVMIeymVqH-3" value="Book_name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;shadow=1;" vertex="1" parent="C8l6dgH5X2dVMIeymVqH-1">
