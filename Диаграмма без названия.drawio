@@ -52,7 +52,7 @@
         <mxCell id="C8l6dgH5X2dVMIeymVqH-91" value="book_id&amp;nbsp; &amp;nbsp; &amp;nbsp;FK" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" parent="C8l6dgH5X2dVMIeymVqH-89" vertex="1">
           <mxGeometry y="60" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C8l6dgH5X2dVMIeymVqH-98" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;entryX=-0.009;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="C8l6dgH5X2dVMIeymVqH-90" target="C8l6dgH5X2dVMIeymVqH-11" edge="1">
+        <mxCell id="C8l6dgH5X2dVMIeymVqH-98" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=none;startArrow=ERmany;rounded=0;entryX=-0.009;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;startFill=0;endFill=0;" parent="1" source="C8l6dgH5X2dVMIeymVqH-90" target="C8l6dgH5X2dVMIeymVqH-11" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="390" y="320" as="sourcePoint" />
             <mxPoint x="490" y="220" as="targetPoint" />
@@ -62,7 +62,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="C8l6dgH5X2dVMIeymVqH-99" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToOne;startArrow=blockThin;rounded=0;entryX=1.009;entryY=-0.117;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.007;exitY=0.833;exitDx=0;exitDy=0;exitPerimeter=0;startFill=1;" parent="1" source="C8l6dgH5X2dVMIeymVqH-90" target="C8l6dgH5X2dVMIeymVqH-4" edge="1">
+        <mxCell id="C8l6dgH5X2dVMIeymVqH-99" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=none;startArrow=ERmany;rounded=0;entryX=1.009;entryY=-0.117;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.007;exitY=0.833;exitDx=0;exitDy=0;exitPerimeter=0;startFill=0;endFill=0;" parent="1" source="C8l6dgH5X2dVMIeymVqH-90" target="C8l6dgH5X2dVMIeymVqH-4" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="400" y="310" as="sourcePoint" />
             <mxPoint x="160" y="390" as="targetPoint" />
